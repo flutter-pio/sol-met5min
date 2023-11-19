@@ -1,7 +1,5 @@
 { 
-"met5min":
-
-[
+"met5min":[
    {
       "pv_power_rooftop": 3.519,
       "period_end": "2023-10-09T09:25:00Z",
